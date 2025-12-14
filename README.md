@@ -6,7 +6,7 @@
 
 A professional implementation of the algebraic object "Continued Fraction" in C++ with support for symbolic computation, algebraic operations and numerical methods. Developed as part of the "Computer Algebra" course under the guidance of Malyshev Igor Alekseevich.
 
-**Разработчик:** Антониу Кизаиди
+**Разработчик:** Кизаиди Антониу
 ---
 
 ## ✨ Основные возможности | Key Features
