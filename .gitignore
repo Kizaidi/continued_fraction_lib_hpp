@@ -1,0 +1,36 @@
+# Arquivos de build
+cmake-build-debug/
+cmake-build-release/
+build/
+out/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+
+# Executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos temporários
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Logs e databases
+*.log
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
